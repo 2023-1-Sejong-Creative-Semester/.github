@@ -49,21 +49,50 @@
 
 ### 서비스 기능 소개
 #### 메인 화면
-#### 로드맵 소개
-#### 학과 소개
-#### 직무 검색
-#### 수업 검색
+<div>
+  <span style="border: 1px solid black;"><img src="https://github.com/2023-1-Sejong-Creative-Semester/.github/blob/main/image/web_main.jpg?raw=true" height=400></span>
+  <img src="https://github.com/2023-1-Sejong-Creative-Semester/.github/blob/main/image/app_main.jpg?raw=true" height=400>
+</div>
 
+#### 로드맵 소개
+<div>
+  <img src="https://github.com/2023-1-Sejong-Creative-Semester/.github/blob/main/image/roadmap.jpg?raw=true" height=400>
+</div>
+
+#### 학과 소개
+<div>
+  <img src="https://github.com/2023-1-Sejong-Creative-Semester/.github/blob/main/image/department.jpg?raw=true" height=400>
+</div>
+
+#### 직무 검색
+<div>
+  <img src="https://github.com/2023-1-Sejong-Creative-Semester/.github/blob/main/image/web_search1.jpg?raw=true" height=400><br>
+  <img src="https://github.com/2023-1-Sejong-Creative-Semester/.github/blob/main/image/web_search2.jpg?raw=true" height=400><br>
+  <img src="https://github.com/2023-1-Sejong-Creative-Semester/.github/blob/main/image/app_search2.jpg?raw=true" height=400>
+  <img src="https://github.com/2023-1-Sejong-Creative-Semester/.github/blob/main/image/app_search3.jpg?raw=true" height=400>
+  <img src="https://github.com/2023-1-Sejong-Creative-Semester/.github/blob/main/image/app_search4.jpg?raw=true" height=400>
+</div>
+
+#### 수업 검색
+<div>
+  <img src="https://github.com/2023-1-Sejong-Creative-Semester/.github/blob/main/image/web_serach3.jpg?raw=true" height=400><br>
+  <img src="https://github.com/2023-1-Sejong-Creative-Semester/.github/blob/main/image/web_serach4.jpg?raw=true" height=400><br>
+  <img src="https://github.com/2023-1-Sejong-Creative-Semester/.github/blob/main/image/app_search5.jpg?raw=true" height=400>
+  <img src="https://github.com/2023-1-Sejong-Creative-Semester/.github/blob/main/image/app_search6.jpg?raw=true" height=400>
+  <img src="https://github.com/2023-1-Sejong-Creative-Semester/.github/blob/main/image/app_search7.jpg?raw=true" height=400>
+</div>
+
+<hr>
 
 ### 시연 영상
 #### iOS
 <a href = "https://youtu.be/cgIUyOlOakw">
-  <img src = "">
+  <img src="https://github.com/2023-1-Sejong-Creative-Semester/.github/blob/main/image/app_video.png?raw=true" height=400>
 </a>
 
 #### Web
 <a href = "https://youtu.be/--_sSlDF8Q0">
-  <img src = "">
+  <img src="https://github.com/2023-1-Sejong-Creative-Semester/.github/blob/main/image/web_video.png?raw=true" height=400>
 </a>
 
 <hr>
